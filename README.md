@@ -81,6 +81,46 @@ Note: You can use any tool to create the wireframe, such as graphic creation or 
 
 #### E.  Demonstrate professional communication in the content and presentation of your submission.
 
+## Task (Part 2):
+
+You were recently hired as a UI/UX Designer for Synesthor, an IT services company that offers on-site consultation for small businesses without an IT department. Synesthor recently contracted with Paradigm Pet Professionals, a company that specializes in providing virtual consultations with pet owners based on state-of-the-art, evidence-based health and well-being information. Its website was designed by a part-time intern 10 years ago. Most people who visit the website are prospective and new pet owners located in the United States who seek information about basic pet care and are interested in speaking with a consultant. Paradigm Pet Professionals contracted with Synesthor’s UI/UX department to develop a responsive website to meet the needs of its company and its existing and potential users.
+
+Having completed your evaluation of the existing “Paradigm Pet Professionals Website” in Task 1, you will now create an interactive desktop prototype of the redeveloped website according to the design specifications provided by Paradigm Pet Professionals.
+  
+## Requirements (Part 2):
+
+#### A.  Create an interactive desktop prototype based on the audience and stakeholder needs using the attached “Paradigm Pet Professional UI Design Specifications” by doing the following:
+
+1.  Include each of the redeveloped “Home,” “Dog Owners,” and “Cat Owners” design prototypes, using content for each corresponding persona from the attached “Paradigm Pet Professionals UI Design Specifications.”
+
+2.  Include one new design prototype based on one of the new user personas, including the content provided and the format specified in the attached “Paradigm Pet Professionals UI Design Specifications.”
+
+3.  Include a contact form that users can complete to request a virtual consultation with a pet professional that includes all the required fields specified in the attached “Paradigm Pet Professionals UI Design Specifications.”
+
+
+
+
+Note: Your prototype should show the fields that will appear on your contact form, but the contact form does not need to be functional.
+
+
+
+4.  Include primary and secondary navigation elements as well as positional awareness techniques that provide the ability to clearly identify where each page is located within the overall information architecture and that allow users to navigate and interact between all sections of the website. 
+
+ 
+
+#### B.  Provide a .pptx file or compressed .html file of your interactive desktop prototype, including the following:
+
+*  the updated “Home,” “Dog Owners,” and “Cat Owners” design prototypes
+
+*  the new design prototype
+
+*  the virtual consultation form
+
+ 
+Note: You can use any tool to create the design prototypes, such as a graphic creation/manipulation software, webpage creation software, presentation software or another tool of your choice.
+
+#### C.  Demonstrate professional communication in the content and presentation of your submission.
+
 ## Overall Course Competencies:
 
 #### User Interface Design Projects
