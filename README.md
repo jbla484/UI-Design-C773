@@ -81,5 +81,46 @@ Note: You can use any tool to create the wireframe, such as graphic creation or 
 
 #### E.  Demonstrate professional communication in the content and presentation of your submission.
 
+## Overall Course Competencies:
+
+#### User Interface Design Projects
+
+* The graduate describes user interface design project constructs.
+
+#### User Interface Design Process
+
+* The graduate describes the user interface design process.
+
+#### User Centered Web Design
+
+* The graduate explains the relationship between the user and the site design.
+
+#### User Interface Design Principles
+
+* The graduate explains user interface design principles.
+
+#### Color, Typography, Layout, Wireframing
+
+* The graduate builds a web page wireframe.
+
+#### Designing a Basic Web Page User Interface
+
+* The graduate creates multiple web pages, using best practices in design technique.
+
+#### Website Navigation Concepts
+
+* The graduate creates a navigation hierarchy for a website.
+
+#### Designing an Interactive Web Page User Interface
+
+* The graduate analyzes best practices in designing interactive elements of User Interfaces.
+
+#### Website Maintenance and Search Engine Optimization Strategies
+
+* The graduate explains the best practice strategies for maintaining websites, including Search Engine Optimization.
+
+## Evaluator Comments:
+
+"Adequate updates are provided for the content redevelopment and information architecture."
 
 
