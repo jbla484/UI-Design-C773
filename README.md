@@ -162,5 +162,4 @@ Note: You can use any tool to create the design prototypes, such as a graphic cr
 ## Evaluator Comments:
 
 "Adequate updates are provided for the content redevelopment and information architecture."
-
-
+"The submission demonstrates competency at creating multiple web pages and using best practices in design technique."
